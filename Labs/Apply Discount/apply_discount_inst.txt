@@ -37,6 +37,3 @@ Tests:
     Waiting: 9. apply_discount(50, 0) should return 50.
     Waiting: 10. When apply_discount is called with a discount of 100, it should return 0.
     Waiting: 11. apply_discount(74.5, 20.0) should return 59.6.
-
-1
-Check Your Code
